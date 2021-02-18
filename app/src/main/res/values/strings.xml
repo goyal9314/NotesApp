@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="save">save</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="creation_time">Creation Time</string>
+    <string name="sort_by_title_asc">Sort by Title(ASC)</string>
+    <string name="sort_by_title_desc">Sort by Title(DESC)</string>
+    <string name="creation_time_asc">Creation Time(ASC)</string>
+    <string name="creation_time_desc">Creation Time(DESC)</string>
+    <string name="have_image">Have Image</string>
+    <string name="not_having_image">Not having Image</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="edit_note">Edit Note</string>
+</resources>

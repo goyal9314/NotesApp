@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sort_title_asc"
+        android:title="@string/sort_by_title_asc"
+        app:showAsAction="collapseActionView"
+        >
+    </item>
+    <item
+        android:id="@+id/sort_title_desc"
+        android:title="@string/sort_by_title_desc"
+        app:showAsAction="collapseActionView"
+        >
+    </item>
+    <item
+        android:id="@+id/sort_created_asc"
+        android:title="@string/creation_time_asc"
+        app:showAsAction="collapseActionView"
+        >
+    </item>
+    <item
+        android:id="@+id/sort_created_desc"
+        android:title="@string/creation_time_desc"
+        app:showAsAction="collapseActionView"
+        >
+    </item>
+    <item
+        android:id="@+id/have_image"
+        android:title="@string/have_image"
+        app:showAsAction="collapseActionView"
+        >
+    </item>
+    <item
+        android:id="@+id/not_have_image"
+        android:title="@string/not_having_image"
+        app:showAsAction="collapseActionView"
+        >
+    </item>
+
+</menu>
